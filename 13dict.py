@@ -9,3 +9,4 @@ expenses = {
 }
 
 total = sum(expenses.values())
+print(f"Total expenses is : {total}")
